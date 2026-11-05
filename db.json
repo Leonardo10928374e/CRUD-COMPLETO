@@ -1,0 +1,24 @@
+{
+  "pessoas": [
+    {
+      "nome": "Senai",
+      "sobrenome": "Jafet",
+      "cpf": "12345678900",
+      "id": "wfjjyGHJaaE"
+    },
+    {
+      "nome": "joao",
+      "sobrenome": "Schneider",
+      "cpf": "45879848841",
+      "email": "lucasviera3108@gmail.com",
+      "senha": "12345",
+      "rua": "lindenberg",
+      "cep": "3253587678",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "11996832367",
+      "id": "iMggp7kLRuA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
