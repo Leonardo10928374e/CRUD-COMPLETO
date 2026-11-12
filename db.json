@@ -1,0 +1,28 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Maria",
+      "sobrenome": "Silva",
+      "cpf": "123.456.789-00",
+      "senha": 123,
+      "email": "maria1@gmail.com"
+    },
+    {
+      "id": "4",
+      "nome": "Pedro",
+      "sobrenome": "Edovaldo",
+      "cpf": "111.222.333-44",
+      "senha": 1234,
+      "email": "pedro1@gmail.com"
+    },
+    {
+      "id": "5",
+      "nome": "Tiago",
+      "sobrenome": "Carlos",
+      "cpf": "999.888.777-66",
+      "senha": 12345,
+      "email": "tiago1@gmail.com"
+    }
+  ]
+}
